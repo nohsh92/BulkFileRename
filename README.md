@@ -6,8 +6,9 @@ This program will help rename multiple files, which can be useful for batch file
 It will be structured as a standard python app with8 PyQt for the GUI component
 
 
-Several issues will need work
-o Function for loading files
-o Function for renaming files
-o GUI for easy access
-o Use of PyThreads for concurrent operation (prevent freezing GUI)
+Several issues will need work<br>
+&#9744; Function for loading files<br>
+&#9744; Function for renaming files<br>
+&#9744; GUI for easy access<br>
+&#9744; Use of PyThreads for concurrent operation (prevent freezing GUI)<br>
+
