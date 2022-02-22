@@ -73,7 +73,7 @@ class Ui_Window(object):
         self.prefixEdit = QtWidgets.QLineEdit(self.layoutWidget)
         self.prefixEdit.setMaximumSize(QtCore.QSize(16777215, 30))
         self.prefixEdit.setMaxLength(30)
-        self.prefixEdit.setReadOnly(True)
+        self.prefixEdit.setReadOnly(False)
         self.prefixEdit.setObjectName("prefixEdit")
         self.gridLayout.addWidget(self.prefixEdit, 4, 0, 1, 1)
         self.extensionLabel = QtWidgets.QLabel(self.layoutWidget)
