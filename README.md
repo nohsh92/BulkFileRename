@@ -6,7 +6,7 @@ This program will help rename multiple files, which can be useful for batch file
 It will be structured as a standard python app with8 PyQt for the GUI component
 
 
-Several issues will need work<br>
+Issues Resolved<br>
 &#9745; Function for loading files (pathlib) <br>
 &#9745; Function for renaming files (pathlib) <br>
 &#9745; GUI for easy access (pyqt) <br>
